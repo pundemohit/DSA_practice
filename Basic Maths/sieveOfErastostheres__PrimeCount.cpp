@@ -1,3 +1,5 @@
+//sieve of erastosthers algorithm which makes the code more optimized
+
 #include<vector>
 #include<iostream>
 using namespace std;
