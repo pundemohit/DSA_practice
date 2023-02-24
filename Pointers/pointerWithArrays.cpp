@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    /*
+    
     int arr[10] = {0, 10, 20, 30};
     cout<<" Address of first memory block in array is :"<<arr<<endl;
     cout<<" Address of first memory block in array is :"<< &arr[0]<<endl;
@@ -34,7 +34,7 @@ int main(){
     cout<<p<<endl;
     cout<<*p<<endl;
     cout<<&p<<endl;
-    */
+    
 
    int ar[10];
     // ar = ar+1;
