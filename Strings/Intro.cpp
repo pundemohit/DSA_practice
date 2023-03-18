@@ -7,7 +7,7 @@ int main(){
     cin>>name;
 
     cout<<"Your name is :"<<endl;
-    cout<<name<<endl;
+    cout<<name;
 
-    return 0;
+    return 0;  
 };
